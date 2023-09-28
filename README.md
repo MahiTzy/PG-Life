@@ -8,7 +8,7 @@ Index , Property List , Property Details , Dashboard etc.
 
 
 ### Index Page
-![ss1](https://user-images.githubusercontent.com/88366253/147323134-08a4b394-a4c1-4fad-b955-93cadeb681fb.png)
+![ss1](https://github.com/MahiTzy/PG-Life/blob/main/Sneaks/Screenshot%202023-09-27%20155536.png)
 ![ss2](https://user-images.githubusercontent.com/88366253/147323285-996e3fca-1cfd-48bc-9590-35cdf95d9549.png)
 
 
