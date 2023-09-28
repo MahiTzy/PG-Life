@@ -2,6 +2,8 @@
 
 PG Life is a website which I have created using React ,PHP keeping in mind the challenges faced by the students to search for good accommodation when they join college/university.
 
+<a href="https://mypglifewebsite.000webhostapp.com/" target="_blank">**Visit Now** 🚀</a>
+
 ## Project Screenshot
 PG Life website consists of 4-5 pages. 
 Index , Property List , Property Details , Dashboard etc.
@@ -9,34 +11,34 @@ Index , Property List , Property Details , Dashboard etc.
 
 ### Index Page
 ![ss1](https://github.com/MahiTzy/PG-Life/blob/main/Sneaks/Screenshot%202023-09-27%20155536.png)
-![ss2](https://user-images.githubusercontent.com/88366253/147323285-996e3fca-1cfd-48bc-9590-35cdf95d9549.png)
+![ss2](https://github.com/MahiTzy/PG-Life/blob/main/Sneaks/Screenshot%202023-09-27%20155616.png)
 
 
 ### Login Modal
-![ss3](https://user-images.githubusercontent.com/88366253/147323307-d888da99-0fc5-4f8b-ad0e-b3fc4d746458.png)
+![ss3](https://github.com/MahiTzy/PG-Life/blob/main/Sneaks/Screenshot%202023-09-27%20155724.png)
 
 
 ### Sign Up Modal
-![ss4](https://user-images.githubusercontent.com/88366253/147323332-c51b114c-18f6-4c5e-9221-a2aaa7072e94.png)
+![ss4](https://github.com/MahiTzy/PG-Life/blob/main/Sneaks/Screenshot%202023-09-27%20155741.png)
 
 
 ### Dashboard Pages
-![ss5](https://user-images.githubusercontent.com/88366253/147323354-121b2071-e28b-4be1-9ab4-ed1df4db6da3.png)
-![ss6](https://user-images.githubusercontent.com/88366253/147323369-326c3caf-899f-4d07-89ed-57a597557a91.png)
+![ss5](https://github.com/MahiTzy/PG-Life/blob/main/Sneaks/Screenshot%202023-09-27%20160015.png)
+![ss6](https://github.com/MahiTzy/PG-Life/blob/main/Sneaks/Screenshot%202023-09-27%20160039.png)
 
 
 ### Property List Page
-![ss7](https://user-images.githubusercontent.com/88366253/147323390-69ff6247-65e9-41cc-8188-2cc98f25a961.png)
+![ss7](https://github.com/MahiTzy/PG-Life/blob/main/Sneaks/Screenshot%202023-09-27%20160126.png)
 
 
 ### Property Detail Page
-![ss8](https://user-images.githubusercontent.com/88366253/147323411-b053d489-d153-4745-a4ea-dca19daf1bc2.png)
-![ss9](https://user-images.githubusercontent.com/88366253/147323461-f341eae3-b796-47da-8516-52f5cd49f9fb.png)
+![ss8](https://github.com/MahiTzy/PG-Life/blob/main/Sneaks/Screenshot%202023-09-27%20160156.png)
+![ss9](https://github.com/MahiTzy/PG-Life/blob/main/Sneaks/Screenshot%202023-09-27%20160403.png)
 
 
 ### Property Detail Page - Amenities Section
-![ss10](https://user-images.githubusercontent.com/88366253/147323496-39a5561b-50e8-489c-82ba-629cc4d19569.png)
+![ss10](https://github.com/MahiTzy/PG-Life/blob/main/Sneaks/Screenshot%202023-09-27%20160403.png)
 
 
 ### Property Deatil Page - Rating Section
-![ss11](https://user-images.githubusercontent.com/88366253/147323512-4eccad34-30a6-4917-940f-0119d6dfb884.png)
+![ss11](https://github.com/MahiTzy/PG-Life/blob/main/Sneaks/Screenshot%202023-09-27%20160503.png)
