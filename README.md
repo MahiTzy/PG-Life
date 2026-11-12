@@ -1,44 +1,31 @@
-# PG Life (Web Development Project)
+# PG Life — Accommodation Discovery Platform
 
-PG Life is a website which I have created using React ,PHP keeping in mind the challenges faced by the students to search for good accommodation when they join college/university.
+PG Life is a web development project intended to help students discover accommodation options when moving to a new college or university.
 
-<a href="https://mypglifewebsite.000webhostapp.com/" target="_blank">**Visit Now** 🚀</a>
+## Overview
+The application focuses on the student accommodation discovery experience. Explore the frontend and backend source to understand the implemented property information, search, and user workflows.
 
-## Project Screenshot
-PG Life website consists of 4-5 pages. 
-Index , Property List , Property Details , Dashboard etc.
+## Technology
+- React
+- PHP
+- Supporting web technologies and database configuration defined in the repository
 
+## Getting Started
+1. Install Node.js/npm and a local PHP development stack such as WAMP (as applicable to the project).
+2. Clone the repository:
+   ```bash
+   git clone https://github.com/MahiTzy/PG-Life.git
+   cd PG-Life
+   ```
+3. Install frontend dependencies in the directory containing `package.json`.
+4. Configure the PHP runtime and database using the configuration files included in the project.
+5. Start the frontend and PHP application using the commands and document root appropriate to the project structure.
 
-### Index Page
-![ss1](https://github.com/MahiTzy/PG-Life/blob/main/Sneaks/Screenshot%202023-09-27%20155536.png)
-![ss2](https://github.com/MahiTzy/PG-Life/blob/main/Sneaks/Screenshot%202023-09-27%20155616.png)
+## Configuration
+Review the source for database name, credentials, API paths, and local server requirements. Use local development credentials and do not commit secrets.
 
+## Development
+Run the frontend and backend in their respective environments. Verify API and database connectivity before testing integrated workflows.
 
-### Login Modal
-![ss3](https://github.com/MahiTzy/PG-Life/blob/main/Sneaks/Screenshot%202023-09-27%20155724.png)
-
-
-### Sign Up Modal
-![ss4](https://github.com/MahiTzy/PG-Life/blob/main/Sneaks/Screenshot%202023-09-27%20155741.png)
-
-
-### Dashboard Pages
-![ss5](https://github.com/MahiTzy/PG-Life/blob/main/Sneaks/Screenshot%202023-09-27%20160015.png)
-![ss6](https://github.com/MahiTzy/PG-Life/blob/main/Sneaks/Screenshot%202023-09-27%20160039.png)
-
-
-### Property List Page
-![ss7](https://github.com/MahiTzy/PG-Life/blob/main/Sneaks/Screenshot%202023-09-27%20160126.png)
-
-
-### Property Detail Page
-![ss8](https://github.com/MahiTzy/PG-Life/blob/main/Sneaks/Screenshot%202023-09-27%20160156.png)
-![ss9](https://github.com/MahiTzy/PG-Life/blob/main/Sneaks/Screenshot%202023-09-27%20160403.png)
-
-
-### Property Detail Page - Amenities Section
-![ss10](https://github.com/MahiTzy/PG-Life/blob/main/Sneaks/Screenshot%202023-09-27%20160403.png)
-
-
-### Property Deatil Page - Rating Section
-![ss11](https://github.com/MahiTzy/PG-Life/blob/main/Sneaks/Screenshot%202023-09-27%20160503.png)
+## License
+No license terms are specified here. Refer to the repository's LICENSE file, if present, before reuse.
